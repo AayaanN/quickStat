@@ -14,4 +14,4 @@ Python
 ![Alt Text](https://im2.ezgif.com/tmp/ezgif-2-8662f058dd.gif) <br /> <br /> <br />
 
 ### Contributors
-Aayaan Naqvi and Yaser Nossibeh
+Aayaan Naqvi, Yaser Nossibeh and Thomas Luc
