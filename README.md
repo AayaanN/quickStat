@@ -11,7 +11,7 @@ We were all big basketball fans, and knew how intimidating advanced basketball s
 Python
 
 ### Demo
-![Alt Text](https://media.giphy.com/media/1QwCH57mjAnYDKnP7B/giphy.gif) <br /> <br /> <br />
+![Alt Text](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdTF2M3BsNDRxNzJxMWxxYXoxMDZxd2ExZHBycDA0NzBuenBwZjBrayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/7YSJ8yFQQUTCl2kbMH/giphy.gif) <br /> <br /> <br />
 
 ### Contributors
 Aayaan Naqvi, Yaser Nossibeh and Thomas Luc
